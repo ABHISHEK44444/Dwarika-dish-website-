@@ -23,7 +23,7 @@ const Header: React.FC = () => {
         <header className="sticky top-0 left-0 right-0 z-50 h-[90px] bg-white/95 backdrop-blur-sm border-b border-slate-200">
             <nav className="container mx-auto px-4 h-full flex justify-between items-center">
                 <Link to="/" className="flex items-center">
-                    <Logo className="h-20 w-auto" />
+                    <Logo className="h-20 w-15" />
                 </Link>
 
                 {/* Desktop Nav */}
