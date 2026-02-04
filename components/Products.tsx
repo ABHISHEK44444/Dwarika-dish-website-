@@ -13,6 +13,26 @@ const productsData = [
     image: 'https://mundhrabrothers.com/wp-content/uploads/2020/12/Cable-min-500x400.png' 
   },
   { 
+    name: 'GI STRIP', 
+    companies: 'Hot Dipped Galvanized', 
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMer1n-yzkJBLocS851fGgUr9x-P19tl9-g&s' 
+  },
+  { 
+    name: 'ALUMINIUM STRIP', 
+    companies: 'EC Grade / Commercial', 
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlQB0y8GyqjT4jwE9cdeKkfwIk-23qC0R4A&s' 
+  },
+  { 
+    name: 'COPPER STRIP', 
+    companies: 'Bare / Tinned Copper', 
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ASAHG3_A5LxfVJOV_O0joutCQZhfUdETjg&s' 
+  },
+  { 
+    name: 'PIT COVER', 
+    companies: 'FRP / Polyplastic / CI', 
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbL0ROGcPzWPIRVUhkpTbvU-B8OP8JuHqdMg&s' 
+  },
+  { 
     name: 'LIMIT SWITCHES', 
     companies: 'BCH, ESSEN, Schneider', 
     image: 'https://mundhrabrothers.com/wp-content/uploads/2020/12/Limit-Switch-1-min-500x400.jpg' 
