@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
                     {/* About */}
                     <div>
                         <div className="flex items-center mb-6 justify-center sm:justify-start">
-                            <Logo className="h-16 w-auto brightness-0 invert" />
+                            <Logo className="h-17 w-20 brightness-0 invert" />
                         </div>
                         <p className="text-sm mb-4">
                             We deal in all kinds of industrial components and building materials. Dwarikadheesh is your premier source for quality and reliability.
