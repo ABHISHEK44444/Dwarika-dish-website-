@@ -34,7 +34,7 @@ const AboutUs: React.FC = () => {
           <div className="order-2 lg:order-1">
             <SubSectionTitle>ABOUT US</SubSectionTitle>
             <div className="relative mb-8 group">
-                <img src="https://picsum.photos/seed/industrial-materials/800/600" alt="Industrial materials supplier warehouse" className="rounded-2xl shadow-2xl w-full object-cover h-[400px]" />
+                <img src="https://gmk.center/wp-content/uploads/2025/04/image-1-2025-04-10T141641.614.jpg" alt="Industrial materials supplier warehouse" className="rounded-2xl shadow-2xl w-full object-cover h-[400px]" />
                 {/* Badge removed as requested */}
             </div>
             <p className="mb-4 text-slate-600 leading-relaxed">
