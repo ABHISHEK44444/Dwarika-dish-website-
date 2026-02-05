@@ -17,11 +17,7 @@ const distributorsData = [
     products: 'Terminal Blocks, Relay Card.', 
     logo: 'https://mundhrabrothers.com/wp-content/uploads/2022/02/phoenix-contact-logo-11.jpg' 
   },
-  { 
-    name: 'Mundhra Electrical', 
-    products: 'Cable Trays, Raceways, Control panel', 
-    logo: 'https://mundhrabrothers.com/wp-content/uploads/2022/02/mundhra-min.jpg' 
-  },
+  
   { 
     name: 'Fenner', 
     products: 'Fenner V Belt, Electric Motors', 
