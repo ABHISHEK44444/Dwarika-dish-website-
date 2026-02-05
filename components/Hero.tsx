@@ -5,7 +5,7 @@ import { ChevronLeftIcon, ChevronRightIcon } from './icons';
 const slidesData = [
   {
     id: 1,
-    image: 'https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80&w=1920',
+    image: 'https://5.imimg.com/data5/SELLER/Default/2023/9/346641989/JP/FU/FM/183961873/building-material-supply-service.jpg',
     title: 'Your Premier Source for',
     highlight: 'Quality Materials & Services.',
     subtitle: 'Delivering excellence and reliability for all your project needs in Agra and beyond.',
